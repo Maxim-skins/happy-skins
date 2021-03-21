@@ -1,0 +1,1 @@
+$(window).load(function(){$(".collapse-menu-trigger").click(function(){$("body").toggleClass("sidebar-hidden");});});
